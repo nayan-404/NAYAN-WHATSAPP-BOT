@@ -1,3 +1,4 @@
+![IMG-20250720-WA0025](https://github.com/user-attachments/assets/2b03f904-a664-4a70-ba6d-8c0e52366ac1)
 # 🤖 RAHI BOT BBY
 
 <div align="center"> 
