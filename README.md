@@ -2,13 +2,15 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Mohammad Nayan" alt="Typing SVG" />
+    ![IMG-20250720-WA0025](https://github.com/user-attachments/assets/e23a34a3-23b3-410e-9776-b726808e2624)
+<img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Rahi bot" alt="Typing SVG" />![SAVE_20241021_100317](https://github.com/user-attachments/assets/8089ef66-7c2b-419a-9b66-f2a4176e6661)
+
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
-    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Rahu Bot bby" height="300"> 
+    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Rahi Bot bby" height="300"> 
   </a> 
 </div>
 <br>
