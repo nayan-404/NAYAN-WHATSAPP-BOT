@@ -1,19 +1,20 @@
-# 🤖 Nayan Bot
+![IMG-20250720-WA0025](https://github.com/user-attachments/assets/2b03f904-a664-4a70-ba6d-8c0e52366ac1)
+# 🤖 RAHI BOT BBY
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Mohammad Nayan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Mohammad Rahi" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
-    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Nayan Bot" height="300"> 
+    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Rahi Bot" height="300"> 
   </a> 
 </div>
 <br>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NAYAN-WHATSAPP-BOT}/count.svg" alt="Nayan :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{RAHI-WHATSAPP-BOT}/count.svg" alt="Rahi :: Visitor's Count" /></p>
 
 
 ---
@@ -25,7 +26,8 @@
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/MOHAMMAD-NAYAN/NAYAN-WHATSAPP-BOT/fork">
+  <a href="https://github.com/MOHAMMAD-NAYAN/NAYAN![IMG-20250720-WA0005](https://github.com/user-attachments/assets/5603481c-8d1e-4f14-9fc8-37349695e0c9)
+-WHATSAPP-BOT/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
